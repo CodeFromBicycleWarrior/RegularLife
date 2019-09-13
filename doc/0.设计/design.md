@@ -36,8 +36,8 @@
 ---
 To be continued
 
-绿色 #1dd1a1
+绿色 #1dd1a1 29,209,161
 
 黑色 #2d3436 rgba(45, 52, 54,1.0)
 
-白色 #f5f6fa / #ffffff
+白色 #f5f6fa / #ffffff   245,246,250
